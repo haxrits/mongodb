@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exam Hall Seat Optimizer
 
 An intelligent, full-stack examination seating optimization web application built with **React**, **Vite**, **Tailwind CSS**, **Node.js**, **Express.js**, and a **live MongoDB Atlas cloud database**.
@@ -193,3 +194,7 @@ npm run dev
    - Switch between room tabs (LH-101, LH-102, CS-LAB-1).
 9. Open **Analytics** (`/analytics`) to see MongoDB aggregation pipelines visualizing department distribution and room utilization rates.
 10. Open **History** (`/history`) to confirm all generated plans remain persistently stored in MongoDB Atlas without overwriting.
+=======
+# mongodb
+VAC 2026
+>>>>>>> 048af65d20a381bf1dc211fbf0a57124d4738cad
